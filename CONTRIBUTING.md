@@ -1,6 +1,6 @@
 # Contributing to MedXAI
 
-Thank you for your interest in **MedXAI: Explainable Medical Imaging Intelligence System** ([explainable-medical-imaging-ai](https://github.com/meolen07/explainable-medical-imaging-ai)). This project is maintained as open research and engineering software. Thoughtful contributions—whether code, documentation, tests, or reproducible experiments—help make medical imaging models more transparent and auditable.
+Thank you for your interest in **MedXAI: Explainable Medical Imaging Intelligence System**. This project is maintained as open research and engineering software. Thoughtful contributions - whether code, documentation, tests, or reproducible experiments - help make medical imaging models more transparent and auditable.
 
 We welcome contributors from academia, industry, and independent research. Please read this guide before opening a pull request.
 
