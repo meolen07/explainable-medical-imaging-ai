@@ -12,7 +12,7 @@
 
 Medical imaging drives a large share of diagnostic workflows, yet deep learning models often behave as opaque scorers: high accuracy on benchmarks does not translate into trust at the bedside. Radiologists need more than a label—they need spatial evidence aligned with anatomy and protocol.
 
-**MedXAI** addresses that gap by pairing multi-architecture classification (normal, benign tumor, malignant tumor) with model-native interpretability: Grad-CAM for convolutional backbones and attention rollout for Vision Transformers. The system is designed as a deployable research platform—train, serve, and review explanations in one pipeline—without substituting for clinical judgment or regulatory clearance.
+**MedXAI** addresses that gap by pairing multi-architecture classification (normal, benign tumor, malignant tumor) with model-native interpretability: Grad-CAM for convolutional backbones and attention rollout for Vision Transformers. The system is designed as a deployable research platform—train, serve, and review explanations in one pipeline — without substituting for clinical judgment or regulatory clearance.
 
 ---
 
