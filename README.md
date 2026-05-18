@@ -274,7 +274,7 @@ If you use this work in academic projects, please cite:
 ## Author
 
 **Huynh Mai Linh Nguyen**  
-Research Engineer · Medical AI  
+University of South Florida  
 
 - GitHub: [@meolen07](https://github.com/meolen07)  
 - Repository: [MedXAI / explainable-medical-imaging-ai](https://github.com/meolen07/explainable-medical-imaging-ai)
