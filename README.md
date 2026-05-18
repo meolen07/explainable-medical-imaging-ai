@@ -1,6 +1,6 @@
 # MedXAI: Explainable Medical Imaging Intelligence System
 
-**Classify chest and brain scans with confidence—and show clinicians *why* the model decided.**
+**Classify chest and brain scans with confidence — and show clinicians *why* the model decided.**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)](https://pytorch.org/)
