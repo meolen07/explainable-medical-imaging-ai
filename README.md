@@ -259,10 +259,10 @@ A model that is correct for the wrong reasons is a liability in medicine. MedXAI
 If you use this work in academic projects, please cite:
 
 ```bibtex
-@software{medxai2025,
+@software{medxai2026,
  author = {Nguyen, Huynh Mai Linh},
  title = {MedXAI: Explainable Medical Imaging Intelligence System},
- year = {2025},
+ year = {2026},
  publisher = {GitHub},
  url = {https://github.com/meolen07/explainable-medical-imaging-ai},
  note = {Research software; not for clinical use.}
